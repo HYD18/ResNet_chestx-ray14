@@ -13,14 +13,14 @@
 <br/>
 各部分代码介绍：<br/>
 models：存放核心模型代码<br/>
-      ;base_resnet：基础resnet模型(本文研究尚未使用)
-      ;cbam：CBAM注意力机制代码实现部分
-      ;resnet：包含resnet18、34、50、101、152
-      ;resnet34_cbam：在resnet34的基础上引入cbam注意力机制
+ &emsp;base_resnet：基础resnet模型(本文研究尚未使用)<br/>
+ &emsp;cbam：CBAM注意力机制代码实现部分<br/>
+ &emsp;resnet：包含resnet18、34、50、101、152<br/>
+ &emsp;resnet34_cbam：在resnet34的基础上引入cbam注意力机制<br/>
 <br/>
 utils：工具包文件夹<br/>
-      ;cheset_dataset：数据集预处理代码
-      ;plot_results:结果绘制代码
+ &emsp;cheset_dataset：数据集预处理代码<br/>
+ &emsp;plot_results:结果绘制代码<br/>
 <br/>
 mian.py: 数据集预处理测试<br/>
 train.py：模型训练文件<br/>
@@ -32,7 +32,6 @@ predict_auc_compare.py：绘制比较各AUC结果<br/>
 ![myplot8](https://github.com/user-attachments/assets/cd7d090e-2a36-4422-8737-56cb68786a2b)
 ![myplot7](https://github.com/user-attachments/assets/a7f6f283-54be-4473-8066-8521deec97d2)
 <br/>
-CBAM可视化：
 ![cam](https://github.com/user-attachments/assets/12176ed5-e8fb-4b90-854a-2f7c20f2d1fe)
 ![00000001_000](https://github.com/user-attachments/assets/8bfd686f-5b88-4bea-bf79-750abd1f6073)
 
