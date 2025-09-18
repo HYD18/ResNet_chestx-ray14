@@ -35,7 +35,8 @@ predict_auc_compare.py：绘制比较各AUC结果<br/>
 ![myplot8](https://github.com/user-attachments/assets/cd7d090e-2a36-4422-8737-56cb68786a2b)
 ![myplot7](https://github.com/user-attachments/assets/a7f6f283-54be-4473-8066-8521deec97d2)
 <br/>
-![cam](https://github.com/user-attachments/assets/12176ed5-e8fb-4b90-854a-2f7c20f2d1fe)
-![00000001_000](https://github.com/user-attachments/assets/8bfd686f-5b88-4bea-bf79-750abd1f6073)
+![cam]
+<img width="1057" height="353" alt="image" src="https://github.com/user-attachments/assets/4ea93f13-e10a-4074-ab84-87b96da1cdb0" />
+
 
 
